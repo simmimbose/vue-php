@@ -1,3 +1,4 @@
+// This code sets a loader when calling a promise based API request from vuejs files.
 export default {
     data() {
         return {
